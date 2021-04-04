@@ -41,7 +41,7 @@ x.csv file: 3-d coordinates of data points
 2-D visualization with t-SNE:
 
 <p align="center">
-  <img src="./figures/tsne_plot.png" width="350" alt="t-SNE visualization">
+  <img src="./figures/tsne_plot.png" width="350" title="t-SNE visualization">
 </p>
 
 ### Visualization of the clustering by EM and VB algorithms
@@ -49,6 +49,6 @@ x.csv file: 3-d coordinates of data points
 Both EM and VB algorithms correctly fit a GMM with 4 clusters into the data
 
 <p align="center">
-  <img src="./figures/tsne_plot_em.png" width="350" alt="EM clustering">
-  <img src="./figures/tsne_plot_vb.png" width="350" alt="VB clustering">
+  <img src="./figures/tsne_plot_em.png" width="350" title="EM clustering">
+  <img src="./figures/tsne_plot_vb.png" width="350" title="VB clustering">
 </p>
