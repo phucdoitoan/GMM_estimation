@@ -38,5 +38,17 @@ the command is the same, except that you need to replace EM.py with VB.py
 ### Data
 x.csv file: 3-d coordinates of data points
 
+2-D visualization with t-SNE:
+
+<p align="center">
+  <img src="./figures/tsne_plot.png" width="350" alt="t-SNE visualization">
+</p>
+
 ### Visualization of the clustering by EM and VB algorithms
 
+Both EM and VB algorithms correctly fit a GMM with 4 clusters into the data
+
+<p align="center">
+  <img src="./figures/tsne_plot_em.png" width="350" alt="EM clustering">
+  <img src="./figures/tsne_plot_vb.png" width="350" alt="VB clustering">
+</p>
