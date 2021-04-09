@@ -16,10 +16,10 @@ For running the files, using the following commands:
 python EM.py [number of clusters] [data file] [output file for posterior] [output file for model parameters]
 ```
 
-[number of clusters]: number of clusters in the GMM, has to be integer.
-[data file]: each line in data file contains elements of a data point, which separated by comma ','.
-[output file for posterior]: each line contains the posterior probability for a data point, the elements are separated by comma ','
-[output file for model parameters]: binary file contains the dictionary of the model's parameters.
+[number of clusters]: number of clusters in the GMM, has to be integer \
+[data file]: each line in data file contains elements of a data point, which separated by comma ',' \
+[output file for posterior]: each line contains the posterior probability for a data point, the elements are separated by comma ',' \
+[output file for model parameters]: binary file contains the dictionary of the model's parameters 
 
 #### Example
 The command
